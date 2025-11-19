@@ -14,28 +14,33 @@
 
 ## Tech Stack
 
-### Languages & Frameworks
+### I code with
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,java,php" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python" />
 </div>
 
-### Databases
 <div>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
 </div>
 
-### Tools & Platforms
 <div>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,wireshark" />
 </div>
+
+### I'm also familiar with
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,aws,gcp,linux,ansible,terraform,firebase,cloudflare" />
+  </a>
+</p>
 
 ---
 
 ## GitHub Stats
 
 <div>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=1usuzu&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=1usuzu&theme=tokyonight" />
 </div>
 
 ---
