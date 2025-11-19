@@ -29,7 +29,6 @@
 ## GitHub Stats
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=1usuzu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=1usuzu&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 <br/>
@@ -48,5 +47,5 @@
 <br/>
 
 <p align="center">
-  <em>Thanks for visiting my profile! 🚀</em>
+  <em>Thanks for visiting my profile!</em>
 </p>
