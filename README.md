@@ -1,14 +1,10 @@
-<h1 align="center">Hi there, I'm 1usuzu</h1>
+<h1 align="center">1usuzu</h1>
 
 <p align="center">
    Developer | Passionate Learner | Building cool things
    <br/>
    Interested in Web Development, Backend, AI, Computer Networking
 </p>
-
----
-
-## Tech Stack
 
 ### I code with
 <p align="center">
