@@ -2,30 +2,27 @@
 
 <p align="center">
    Developer | Passionate Learner | Building cool things
+   <br/>
+   Interested in Web Development, Backend, AI, Computer Networking
 </p>
-
----
-
-## About Me
-- Student in Vietnam Aviation Academy
-- Interested in Web Development, Backend, AI, Computer Networking
 
 ---
 
 ## Tech Stack
 
 ### I code with
-<div>
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python" />
-</div>
-
-<div>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
-</div>
-
-<div>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,wireshark" />
-</div>
+<p align="center">
+   <div>
+     <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python" />
+   </div>
+   
+   <div>
+     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+   </div>
+   <div>
+     <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,wireshark" />
+   </div>
+</p>
 
 ### I'm also familiar with
 <p align="center">
