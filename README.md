@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python&perline=5" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=5" />
+  <img src="https://skillicons.dev/icons?i=postgresql,prisma,mongodb,redis,git&perline=5" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,wireshark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,postman,wireshark&perline=4" />
 </p>
 
 <p align="center">
@@ -33,18 +33,20 @@
 
 <br/>
 
-## Contact
 <p align="center">
+  <strong>Let's connect!</strong>
+  <br/><br/>
   <a href="mailto:luuluu.vn.2005@gmail.com">
-    <img src="https://img.shields.io/badge/style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/1.u.s.u.z.u">
-    <img src="https://img.shields.io/badge/style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=facebook&theme=dark" />
   </a>
 </p>
 
 <br/>
 
 <p align="center">
-  <em>Thanks for visiting my profile!</em>
+  <em>Thanks for stopping by!</em>
 </p>
