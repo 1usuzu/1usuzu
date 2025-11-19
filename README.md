@@ -11,11 +11,11 @@
 <p align="center">
   <strong>I code with</strong>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python&perline=5" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=6" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=5" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,wireshark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,wireshark&perline=5" />
 </p>
 
 <p align="center">
