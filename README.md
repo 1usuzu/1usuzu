@@ -1,9 +1,7 @@
 <h1 align="center">1usuzu</h1>
 
 <p align="center">
-  <strong>Developer | Passionate Learner | Building cool things</strong>
-  <br/>
-  Interested in Web Development • Backend • AI • Computer Networking
+  <strong>Interested in Web Development • Backend • AI • Computer Networking</strong> 
 </p>
 
 <br/>
