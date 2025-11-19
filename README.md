@@ -22,13 +22,6 @@
 
 <br/>
 
-## GitHub Stats
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=1usuzu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
-
-<br/>
-
 <p align="center">
   <strong>You can find me on</strong>
   <br/><br/>
