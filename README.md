@@ -6,22 +6,25 @@
    Interested in Web Development, Backend, AI, Computer Networking
 </p>
 
-### I code with
+<br/>
+
 <p align="center">
+### I code with
    <div>
      <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python" />
    </div>
-   
+   <br/>
    <div>
      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
    </div>
+   <br/>
    <div>
      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,wireshark" />
    </div>
 </p>
 
-### I'm also familiar with
 <p align="center">
+### I'm also familiar with
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,aws,gcp,linux,ansible,terraform,firebase,cloudflare" />
   </a>
