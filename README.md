@@ -1,7 +1,7 @@
 <h1 align="center">1usuzu</h1>
 
 <p align="center">
-  <strong>Interested in Web Development • Backend • AI • Computer Networking</strong> 
+  <strong>Web Development • Backend • AI • Computer Networking</strong> 
 </p>
 
 <br/>
