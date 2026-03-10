@@ -11,13 +11,7 @@
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python&perline=5" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=postgresql,prisma,mongodb,redis,git,github,vscode,postman&perline=8" />
-</p>
-
-<p align="center">
-  <strong>I'm also familiar with</strong>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,linux,ansible,terraform,firebase,cloudflare&perline=8" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,git,github,vscode,postman&perline=8" />
 </p>
 
 <br/>
