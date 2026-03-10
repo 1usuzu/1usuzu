@@ -9,9 +9,7 @@
 <p align="center">
   <strong>I code with</strong>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python&perline=5" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,git,github,vscode,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python,postman&perline=5" />
 </p>
 
 <br/>
