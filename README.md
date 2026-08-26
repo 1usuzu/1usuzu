@@ -9,7 +9,7 @@
 <p align="center">
   <strong>I code with</strong>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=python,js,java,nodejs&perline=4" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,nodejs&perline=4" />
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=solidity,git,aws,postman&perline=5" />
 </p>
