@@ -1,7 +1,7 @@
 <h1 align="center">1usuzu</h1>
 
 <p align="center">
-  <strong>Web Development • AI • Blockchain • Computer Networking</strong> 
+  <strong>Web Development • AI Engineer • Blockchain • Computer Networking</strong> 
 </p>
 
 <br/>
@@ -9,9 +9,9 @@
 <p align="center">
   <strong>I code with</strong>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=postman,git,solidity,aws&perline=4" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,nodejs&perline=4" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,java&perline=5" />
+  <img src="https://skillicons.dev/icons?i=solidity,git,aws,postman&perline=5" />
 </p>
 
 <br/>
