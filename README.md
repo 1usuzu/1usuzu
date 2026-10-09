@@ -2,13 +2,14 @@
 <h1 align="center">Hi there, I'm 1usuzu</h1>
 
 <p align="center">
-  <strong>AI Engineering • Machine Learning • Software Development</strong>
+  <strong>AI Engineering • Machine Learning • LLM Systems</strong>
+  <br/>
+  <sub>Exploring Computer Vision, Software Development, and intelligent systems</sub>
 </p>
 
 <p align="center">
-  Passionate about AI and building intelligent solutions to real-world problems.
-  <br/>
-  Always learning, exploring new technologies, and turning ideas into reality.
+  Just exploring things I find interesting, building stuff,
+  breaking things, and figuring them out along the way.
 </p>
 
 <br/>
@@ -16,12 +17,10 @@
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,solidity,pytorch,fastapi&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,git,github&perline=6" alt="AI and development tools" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,react,docker,git,github,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,js,nodejs,react,solidity,postman&perline=6" alt="Software development tools" />
 </p>
-
-<br/>
 
 <h3 align="center">Connect With Me</h3>
 
@@ -40,5 +39,7 @@
 <br/>
 
 <p align="center">
-  <em>Luu Xuan Dung - 1usuzu</em>
+  <em>Keep learning. Keep exploring.</em>
+  <br/>
+  <em>Luu Xuan Dung - Zosma</em>
 </p>
