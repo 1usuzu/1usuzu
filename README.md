@@ -33,20 +33,6 @@
 
 <br/>
 
-<h3 align="center">Areas of Interest</h3>
-
-<p align="center">
-  Artificial Intelligence & Machine Learning
-  <br/>
-  Large Language Models & AI Agents
-  <br/>
-  Computer Vision & Deep Learning
-  <br/>
-  AI Infrastructure & MLOps
-  <br/>
-  Software Engineering & Distributed Systems
-</p>
-
 <br/>
 
 <h3 align="center">Connect With Me</h3>
